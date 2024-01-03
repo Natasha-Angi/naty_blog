@@ -18,7 +18,7 @@ img{display: block;width: 100%;}
 header{min-height: 100vh; background: linear-gradient(rgba(0, 0, 0, 0.63), rgba(0, 0, 0, 0.507)), url(./images/banner-bg.jpg) center/cover no-repeat fixed;display: flex;
 flex-direction:column;justify-content: stretch;}
 
-.navbar{background: rgba(0, 0, 0, 0.923);padding: 1.2rem; height: 130px;border: 2px solid rgba(0, 0, 0, 0.411); box-shadow: -3px 2px 7px rgba(0, 0, 0, 0.603);position: fixed;width: 1200px;z-index: 100}
+.navbar{background: rgba(0, 0, 0, 0.923);padding: 1.2rem; height: 130px;border: 2px solid rgba(0, 0, 0, 0.411); box-shadow: -3px 2px 7px rgba(0, 0, 0, 0.603);position: fixed;width: 1500px;z-index: 100; ;}
 
 .logo{color: #fff;font-size: 2rem; display: block;text-align: center;text-decoration: none;font-family:'Playfair Display', serif;font-weight:400;font-style: italic; text-transform: uppercase;}
 
